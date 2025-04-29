@@ -1,12 +1,12 @@
-<center>
+<div align="center">
 
-# Desafio GitHub Markdown 
+# Desafio GitHub Markdown
 
 ### Desafio | "GitHub Markdown", proposto pela Aline Antunes da DIO
 
-<img src="pngimg.com - github_PNG65.png" width= "400px"/>
+<img src="pngimg.com - github_PNG65.png" width="400px"/>
 
-</center>
+</div>
 
 <div style="height: 6px; background: linear-gradient(to right, #0f0f0f, #2c2c2c, #4f4f4f, #2c2c2c, #0f0f0f);"></div>
 <br>
@@ -50,14 +50,20 @@ Como o objetivo central deste desafio encontra-se na colaboração, e não no de
 
 ### Tecnologias usadas no desafio e projeto:
 
-<center>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width= "60px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" width= "60px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width= "60px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width= "60px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width= "60px"/>
-</center>
+<br>
+
+<p align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width= "60px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" width= "60px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width= "60px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width= "60px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width= "60px"/>
+</p>
 
 <br>
 
-<center><h3> Colaboradores: <a href="https://github.com/raissarobadel">Raíssa Robadel</a> & <a href="https://github.com/nandexdead">Fernando Dias</a> </h3></center>
+<h3 align="center">
+  Colaboradores: 
+    <a href="https://github.com/raissarobadel">Raíssa Robadel</a> & 
+    <a href="https://github.com/nandexdead">Fernando Dias</a>
+  </h3>
