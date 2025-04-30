@@ -45,7 +45,7 @@ Ao final deste desafio, os colaboradores terão como meta atingida as habilidade
 ## Sobre o projeto
 
 <h4>
-Como o objetivo central deste desafio encontra-se na colaboração, e não no desenvolvimento de um projeto específico, os colaboradores optaram por implementar um projeto simples de uma calculadora, utilizando JavaScript, HTML e CSS. 
+Como o objetivo central deste desafio encontra-se na colaboração, e não no desenvolvimento de um projeto específico, os colaboradores optaram por implementar um projeto simples, de uma breve apresentação da origem do projeto e sobre os desenvolvedores/colaboradores, utilizando JavaScript, HTML e CSS. 
 </h4>
 
 ### Tecnologias usadas no desafio e projeto:
