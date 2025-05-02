@@ -8,7 +8,7 @@
 
 </div>
 
-<div style="height: 6px; background: linear-gradient(to right, #0f0f0f, #2c2c2c, #4f4f4f, #2c2c2c, #0f0f0f);"></div>
+<img src="Black Gradient.png" alt="barra decorativa" width="100%" height="6px" />
 <br>
 
 ## Propósitos do Desafio
